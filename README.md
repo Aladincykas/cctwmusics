@@ -1,2 +1,2 @@
-# cctwmusics
-cc music
+# CCMusic Library
+For CC:T Mod
